@@ -1,4 +1,4 @@
-# Securin
+# Securin - The Doomed Dice Challenge 
 
 You are given two six-sided dice, Die A and Die B, each with faces numbered from 1 to 6.
 You can only roll both the dice together & your turn is guided by the obtained sum. Example:DieA=6,DieB=3.Sum=6+3=9
@@ -28,7 +28,7 @@ So if you could only roll P(Sum = 2) = 1/X, the new dice must have the spots rea
 
 Input:
 
-● Die_A=[1,2,3,4,5,6]&DieB=Die_A=[1,2,3,4,5,6]
+● Die_A = [1,2,3,4,5,6] & DieB = Die_A = [1,2,3,4,5,6]
 
 Output:
 
